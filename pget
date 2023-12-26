@@ -7,7 +7,6 @@
 # echo export PATH=$PATH:$HOME:.apt/usr/bin:.apt/bin:.apt/sbin:.apt/usr/share:.apt/usr/lib >>  $HOME/.profile
 # echo export LD_LIBRARY_PATH=$LD_LIBRARY_PATH:$HOME:.apt/usr/lib/x86_64-linux-gnu >> $HOME/.profile
 
-
 echo "starting install..."
 echo curent user is "$USER"
 echo "---------------------"
